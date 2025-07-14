@@ -4,7 +4,7 @@
 
 2.Migrate the blockchain to the Ganache network.
   ```
-  cd Ethereal
+  cd code
   truffle migrate --reset
   ```
 3.Install all the dependancies and start the client.
